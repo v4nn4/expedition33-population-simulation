@@ -5,7 +5,7 @@ Inspired by [*Clair Obscur: Expedition 33*](https://www.expedition33.com/).
 Each year, a mysterious ritual causes the disappearance of the city's oldest remaining age group. In 1900, all 100-year-olds vanish. In 1901, all 99-year-olds. This continues until, in 1967, those aged 33 are taken.
 The simulation offers a glimpse into how the city's demographics might have evolved under this unusual pattern.
 
----
+![plot](./data/generated/plot.png)
 
 ## Methodology & Sources
 
