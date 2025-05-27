@@ -9,6 +9,8 @@ The simulation offers a glimpse into how the city's demographics might have evol
 
 ## Methodology & Sources
 
-- **Initial population** based on the 1901 French census and scaled to match the 1901 Paris population (~2.7 million). [Source](https://www.bnsp.insee.fr/ark:/12148/bpt6k5503095m/f56.item.zoom).
-- **Fertility and mortality rates** by age are based on historical French data from the early 20th century. [Source](https://fr.wikipedia.org/wiki/Natalit%C3%A9_en_France).
+- **Initial population** based on the 1901 French census and scaled to match the 1901 Paris population (~2.7 million).
+- **Fertility and mortality rates** by age are based on historical French data from 1901, using a TFR of 2.89
 - **The Paintress effect** removes one age group per year, starting from age 100 in 1900 down to 33 in 1967.
+
+Source: https://www.bnsp.insee.fr/ark:/12148/bpt6k5503095m/f56.item.zoom

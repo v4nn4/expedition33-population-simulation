@@ -1,0 +1,4 @@
+Total = 38,269,011
+Deaths = 816,233
+Births = 847,627
+Difference = 31000
